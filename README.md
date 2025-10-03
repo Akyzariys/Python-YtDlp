@@ -9,7 +9,7 @@ A simple Python application for quickly downloading videos from YouTube using yt
 
 ```bash
 git clone https://github.com/Akyzariys/Python-YtDlp.git
-cd youtube-downloader
+cd Python-YtDlp
 pip install -r requirements.txt
 ```
 
