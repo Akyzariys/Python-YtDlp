@@ -8,7 +8,7 @@ def main():
     print("Выберете формат:")
     print("1. лучший по качеству (по умолчанию)")
     print("2. mp4 (Видео)")
-    print("3. mp3 (только звук")
+    print("3. mp3 (только звук)")
     format_choice = input("Введите число (1-3): ").strip()
 
     if format_choice == "2":
