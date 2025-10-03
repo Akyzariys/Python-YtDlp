@@ -5,6 +5,11 @@ A simple Python application for quickly downloading videos from YouTube using yt
 
 Этот инструмент упрощает процесс скачивания видео с YouTube для меня.
 
+## Requirements
+
+Необходимо что бы был установлен Python 3+ версии.
+It is necessary that Python 3+ version be installed.
+
 ## Installation
 
 ```bash
